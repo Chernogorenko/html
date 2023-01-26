@@ -1,5 +1,14 @@
-p {
+    p {
     font-size: 24;
     background-color: rgb(70, 170, 70);
-    margin: 0;
+}
+
+.conteiner {
+    display:inline-block;
+    height: 100px;
+    background-color: rgb(103, 102, 102);
+}
+
+p{
+    display: inline;
 }
