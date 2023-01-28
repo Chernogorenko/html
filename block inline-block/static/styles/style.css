@@ -4,11 +4,8 @@
 }
 
 .conteiner {
-    display:inline-block;
-    height: 100px;
-    background-color: rgb(103, 102, 102);
+    display: inline-block;
+    text-align: center;
+   background-color: rgb(103, 102, 102);
 }
 
-p{
-    display: inline;
-}
