@@ -1,14 +1,17 @@
-    p {
-    font-size: 24;
-    background-color: rgb(70, 170, 70);
+p {
+  font-size: 24;
+  background-color: rgb(103, 190, 103);
+
 }
 
 .conteiner {
-    display: inline-block;
-    text-align: center;
-   background-color: rgb(103, 102, 102);
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(111, 108, 108);
+
 }
 
 .main {
-    text-align: center;
+  text-align: center;
 }
+
