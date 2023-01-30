@@ -11,4 +11,8 @@ span {
 .list-conteiner>p {
     text-align: center;
     font-weight: bold;
-}      
+}
+
+img {
+    float: right;
+}
