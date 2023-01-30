@@ -5,6 +5,8 @@ p {
 }
 
 .conteiner {
+  margin: 20px ;
+  margin-top: 50px;
   display: inline-block;
   text-align: center;
   background-color: rgb(111, 108, 108);
@@ -16,5 +18,5 @@ p {
 }
 
 .conteiner>img {
-  width: 300px;
+  max-width: 300px;
 }
