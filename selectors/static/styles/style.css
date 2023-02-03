@@ -4,16 +4,18 @@
 id 100
 стиль в самом теге 1000
  */
-.main,
-.baby {
-    background-color: rgb(159, 216, 102);
+.main.border-div {
+    background-color: rgb(125, 121, 121);
+    border-style: dotted;
 }
-
+/* 10+10 */
 
 .main {
-    height: 300px;
+    background-color: aqua;
 }
+/* 10 */
 
-.baby {
-    height: 200px;
+.border-div {
+    border-style: solid;
 }
+/* 10 */
