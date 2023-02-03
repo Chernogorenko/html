@@ -1,0 +1,17 @@
+/* 
+по тегу 1
+класс 10
+id 100
+стиль в самом теге 1000
+ */
+div {
+    background-color: chartreuse;
+}
+
+.main {
+    background-color: rgb(240, 5, 25);
+}
+
+#main2 {
+    background-color: rgb(94, 88, 88);
+}
