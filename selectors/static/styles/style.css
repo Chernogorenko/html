@@ -19,3 +19,7 @@ id 100
     border-style: solid !important;
 }
 /* 10 */
+
+.main p {
+    font-size: 35px;
+}
