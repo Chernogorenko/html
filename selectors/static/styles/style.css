@@ -16,6 +16,6 @@ id 100
 /* 10 */
 
 .border-div {
-    border-style: solid;
+    border-style: solid !important;
 }
 /* 10 */
