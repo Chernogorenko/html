@@ -5,13 +5,16 @@ id 100
 стиль в самом теге 1000
  */
 div {
-    background-color: chartreuse;
+    background-color: rgb(100, 103, 97);
 }
+/* 1 */
+
+div.main {
+    background-color: rgb(171, 173, 116);
+}
+/* 1+10 */
 
 .main {
-    background-color: rgb(240, 5, 25);
+    background-color: rgb(73, 199, 24);
 }
-
-#main2 {
-    background-color: rgb(94, 88, 88);
-}
+/* 10 */
