@@ -1,11 +1,33 @@
 html {
-    font-size: 30px;
+    font-size:30px;
 }
 
-ul {
-    list-style: none;
+p {
+    font-size: 2em;
 }
 
-li {
+div {
+    width: 300px; 
+    height: 300px;
+    margin: 4em;
     font-size: 0.5em;
 }
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#grey {
+    background-color: gray;
+
+    /* ширина=width
+    высота=height
+    допуск=margin */
