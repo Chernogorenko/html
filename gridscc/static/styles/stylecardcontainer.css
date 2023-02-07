@@ -18,19 +18,24 @@
     width: 100%;
 }
 
-.card>info {
+.card>.info {
     text-align: center;
 }
 
 @media (max-width: 800px) {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(5);
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5);
+    }
 }
 
 @media (max-width: 600px) {
-    grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(9);
-}
+    .container {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(9);
+    }
+
 .card {
     margin-inline: 0;
+}
 }
