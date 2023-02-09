@@ -40,10 +40,13 @@
     .drop:hover .nav-list {
         display: block;
         position: absolute;
+        top: 100px;
+        left: 100px;
+
         background-color:  rgb(38, 37, 37);
     }
-    .navbar {
+    /* .navbar {
       justify-content: space-between;
-    }
+    } */
 
   }
