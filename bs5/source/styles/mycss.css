@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
 body {
+  font-family: Michroma, serif;
   background: linear-gradient(90deg, #B811AE 0%, #000000 100%);
 }
 .nav-link {
@@ -20,4 +23,14 @@ body {
 .sidebar {
     color: aquamarine;
     background: linear-gradient(270deg, #B811AE 0%, #000000 100%);
+}
+
+.card {
+  background: linear-gradient(270deg, #B811AE 0%, #000000 100%);
+  color: aquamarine;
+}
+
+.card a {
+  text-decoration: none;
+  color: aquamarine;
 }
