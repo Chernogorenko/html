@@ -35,7 +35,25 @@ body {
   color: aquamarine;
 }
 
-.slide-text {
+.slide-text,
+.footer-text {
     color: aquamarine;
     margin: auto auto;
+}
+
+footer {
+  background: linear-gradient(270deg, #B811AE 0%, #000000 100%);
+}
+
+.media-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+@media (max-width: 755px) {
+  .carousel-indicators {
+    display: none;
+  }
 }
